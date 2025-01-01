@@ -1,0 +1,26 @@
+﻿Name,Einheit,Ausdruck,Wert,Kommentare,Favorit
+M3_Gewindeeinsatz_Aussendurchmesser_D1,mm,4.6 mm,4.6,,false
+M3_Gewindeeinsatz_Duchmesser_Einschmelzring_D2,mm,3.9 mm,3.9,,false
+M3_Gewindeeinsatz_Lochdurchmesser_Werkstück_D3,mm,4.0 mm,4.0,,false
+M3_Gewindeeinsatz_Lochtiefe_Werkstück,mm,5.7 mm,5.7,,false
+M3_Gewindeeinsatz_min_Wandstärke_Werkstück,mm,1.6 mm,1.6,,false
+M4_Gewindeeinsatz_Aussendurchmesser_D1,mm,6.3 mm,6.3,,false
+M4_Gewindeeinsatz_Duchmesser_Einschmelzring_D2,mm,5.5 mm,5.5,,false
+M4_Gewindeeinsatz_Lochdurchmesser_Werkstück_D3,mm,5.6 mm,5.6,,false
+M4_Gewindeeinsatz_Lochtiefe_Werkstück,mm,6.35 mm,6.35,,false
+M4_Gewindeeinsatz_min_Wandstärke_Werkstück,mm,2.1 mm,2.1,,false
+M5_Gewindeeinsatz_Aussendurchmesser_D1,mm,7.1 mm,7.1,,false
+M5_Gewindeeinsatz_Duchmesser_Einschmelzring_D2,mm,6.3 mm,6.3,,false
+M5_Gewindeeinsatz_Lochdurchmesser_Werkstück_D3,mm,6.4 mm,6.4,,false
+M5_Gewindeeinsatz_Lochtiefe_Werkstück,mm,9.5 mm,9.5,,false
+M5_Gewindeeinsatz_min_Wandstärke_Werkstück,mm,2.6 mm,2.6,,false
+M6_Gewindeeinsatz_Aussendurchmesser_D1,mm,8.7 mm,8.7,,false
+M6_Gewindeeinsatz_Duchmesser_Einschmelzring_D2,mm,7.9 mm,7.9,,false
+M6_Gewindeeinsatz_Lochdurchmesser_Werkstück_D3,mm,8.0 mm,8.0,,false
+M6_Gewindeeinsatz_Lochtiefe_Werkstück,mm,12.7 mm,12.7,,false
+M6_Gewindeeinsatz_min_Wandstärke_Werkstück,mm,3.3 mm,3.3,,false
+M8_Gewindeeinsatz_Aussendurchmesser_D1,mm,10.24 mm,10.24,,false
+M8_Gewindeeinsatz_Duchmesser_Einschmelzring_D2,mm,9.5 mm,9.5,,false
+M8_Gewindeeinsatz_Lochdurchmesser_Werkstück_D3,mm,9.6 mm,9.6,,false
+M8_Gewindeeinsatz_Lochtiefe_Werkstück,mm,12.7 mm,12.7,,false
+M8_Gewindeeinsatz_min_Wandstärke_Werkstück,mm,4.5 mm,4.5,,false
